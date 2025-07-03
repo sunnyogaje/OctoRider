@@ -1,19 +1,19 @@
 {
   "expo": {
-    "name": "OctoMarket",
-    "slug": "OctoMarket",
+    "name": "OctoRider",
+    "slug": "OctoRider",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "octomarket",
+    "scheme": "octorider",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
-      "bundleIdentifier": "com.dktsolutions.octomarket",
+      "bundleIdentifier": "com.dktsolutions.octorider",
       "supportsTablet": true
     },
     "android": {
-      "package": "com.dktsolutions.octomarket",
+      "package": "com.dktsolutions.octorider",
       "adaptiveIcon": {
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
@@ -43,7 +43,7 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "bd925896-01de-41ee-ab36-8a3c423e35c5"
+        "projectId": "d54d71f9-d458-4a8e-8c60-869e7e3bfa61"
       }
     },
     "owner": "sunnyogaje"
